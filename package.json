@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-react-recommend",
+  "version": "0.1.0",
+  "description": "项目当前实践Rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanhg/react-eslint-recommend-rule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanhg/react-eslint-recommend-rule/issues"
+  },
+  "homepage": "https://github.com/alanhg/react-eslint-recommend-rule#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
