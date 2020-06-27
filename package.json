@@ -4,6 +4,9 @@
   "description": "项目当前实践Rules",
   "main": "index.js",
   "scripts": {
+    "commit": "git-cz",
+    "commitmsg": "commitlint -e $GIT_PARAMS",
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -23,5 +26,17 @@
   "homepage": "https://github.com/alanhg/react-eslint-recommend-rule#readme",
   "peerDependencies": {
     "eslint": ">= 3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/config-conventional": "^8.3.4",
+    "commitizen": "^4.0.3",
+    "commitlint": "^8.3.5",
+    "husky": "^4.0.10",
+    "standard-version": "^7.0.1"
   }
 }
