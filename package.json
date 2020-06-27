@@ -1,11 +1,16 @@
 {
   "name": "@stacker/eslint-config-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "项目当前实践Rules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "eslint",
+    "react",
+    "typescript"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alanhg/react-eslint-recommend-rule.git"
