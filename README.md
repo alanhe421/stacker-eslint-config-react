@@ -1,3 +1,3 @@
-# eslint-config-react-recommend
+# @stacker/eslint-config-react-rules
 
 项目当前实践Rules

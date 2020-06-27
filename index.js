@@ -2,6 +2,11 @@ module.exports = {
     globals: {
         MyGlobal: true
     },
+    extends: [
+        'eslint:recommended',
+        'plugin:@typescript-eslint/eslint-recommended',
+        'plugin:@typescript-eslint/recommended'
+    ],
     rules: {
         '@typescript-eslint/naming-convention': [
             'error',
@@ -68,10 +73,5 @@ module.exports = {
             }],
         'no-nested-ternary': ['error'],
         'array-callback-return': ['error']
-    },
-    extends: [
-        'eslint:recommended',
-        'plugin:@typescript-eslint/eslint-recommended',
-        'plugin:@typescript-eslint/recommended'
-    ],
+    }
 };
