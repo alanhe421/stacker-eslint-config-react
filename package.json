@@ -2,6 +2,25 @@
   "name": "@stacker/eslint-config-react",
   "version": "0.1.2",
   "description": "项目当前实践Rules",
+  "keywords": [
+    "eslint",
+    "react",
+    "typescript"
+  ],
+  "homepage": "https://github.com/alanhg/react-eslint-recommend-rule#readme",
+  "bugs": {
+    "url": "https://github.com/alanhg/react-eslint-recommend-rule/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanhg/react-eslint-recommend-rule.git"
+  },
+  "license": "ISC",
+  "author": "Alan He",
+  "files": [
+    "package.json",
+    "index.js"
+  ],
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
@@ -9,28 +28,22 @@
     "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "eslint",
-    "react",
-    "typescript"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alanhg/react-eslint-recommend-rule.git"
-  },
-  "author": "Alan He",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alanhg/react-eslint-recommend-rule/issues"
-  },
-  "homepage": "https://github.com/alanhg/react-eslint-recommend-rule#readme",
-  "peerDependencies": {
-    "eslint": ">= 3"
-  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.30.0",
+    "@typescript-eslint/eslint-plugin-tslint": "^2.30.0",
+    "@typescript-eslint/parser": "^2.30.0",
+    "eslint": "^7.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsdoc": "^24.0.0",
+    "eslint-plugin-prefer-arrow": "^1.2.0",
+    "eslint-plugin-react": "^7.20.0"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
@@ -38,5 +51,8 @@
     "commitlint": "^8.3.5",
     "husky": "^4.0.10",
     "standard-version": "^7.0.1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 7"
   }
 }
