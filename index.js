@@ -72,6 +72,12 @@ module.exports = {
                 'objectLiteralTypeAssertions': 'allow'
             }],
         'no-nested-ternary': ['error'],
-        'array-callback-return': ['error']
+        'array-callback-return': ['error'],
+        'react/prop-types': ['off'],
+        'react/jsx-no-target-blank': ['off'],
+        'react/display-name': ['off'],
+        'react/no-unsafe': ['error', {
+            'checkAliases': true
+        }]
     }
 };
