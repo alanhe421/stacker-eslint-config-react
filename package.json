@@ -7,18 +7,17 @@
     "react",
     "typescript"
   ],
-  "homepage": "https://github.com/alanhg/react-eslint-recommend-rule#readme",
+  "homepage": "https://github.com/alanhg/stacker-eslint-config-react#readme",
   "bugs": {
-    "url": "https://github.com/alanhg/react-eslint-recommend-rule/issues"
+    "url": "https://github.com/alanhg/stacker-eslint-config-react/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alanhg/react-eslint-recommend-rule.git"
+    "url": "git+https://github.com/alanhg/stacker-eslint-config-react.git"
   },
   "license": "ISC",
   "author": "Alan He",
   "files": [
-    "package.json",
     "index.js"
   ],
   "main": "index.js",
