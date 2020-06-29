@@ -83,6 +83,7 @@ module.exports = {
         'react/display-name': ['off'],
         'react/no-unsafe': ['error', {
             'checkAliases': true
-        }]
+        }],
+        'spaced-comment': ['error', 'always']
     }
 };
