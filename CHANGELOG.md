@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.5...v0.1.6) (2020-06-29)
+
+
+### Code Refactoring
+
+* **code review:** add spaced-comment rule ([4691990](https://github.com/alanhg/stacker-eslint-config-react/commit/469199026f7fc144d078b1d81158645dd0f6ad18))
+
 ### [0.1.5](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.4...v0.1.5) (2020-06-28)
 
 ### [0.1.4](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.3...v0.1.4) (2020-06-28)
