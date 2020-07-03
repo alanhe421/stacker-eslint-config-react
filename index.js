@@ -84,6 +84,7 @@ module.exports = {
         'react/no-unsafe': ['error', {
             'checkAliases': true
         }],
-        'spaced-comment': ['error', 'always']
+        'spaced-comment': ['error', 'always'],
+        'react/jsx-no-useless-fragment': ['error']
     }
 };
