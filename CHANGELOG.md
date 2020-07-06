@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.6...v0.1.7) (2020-07-06)
+
+
+### Features
+
+* **curly:** curly brace conventions ([e1bbbc7](https://github.com/alanhg/stacker-eslint-config-react/commit/e1bbbc7fe8de577e25320c6e222bdd71d3cd6684))
+* **react:** add react/jsx-no-useless-fragment ([566b54c](https://github.com/alanhg/stacker-eslint-config-react/commit/566b54ca987916a61d135e117fbc9036addec2ba))
+
 ### [0.1.6](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.5...v0.1.6) (2020-06-29)
 
 
