@@ -85,6 +85,7 @@ module.exports = {
             'checkAliases': true
         }],
         'spaced-comment': ['error', 'always'],
-        'react/jsx-no-useless-fragment': ['error']
+        'react/jsx-no-useless-fragment': ['error'],
+        'curly': ['error', 'all']
     }
 };
