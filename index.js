@@ -65,7 +65,7 @@ module.exports = {
         'no-empty': 'off',
         'no-extra-boolean-cast': 'off',
         '@typescript-eslint/ban-ts-ignore': 'off',
-        'no-console': ['error', {'allow': ['warn', 'error', 'info']}],
+        'no-console': ['error', {'allow': ['warn', 'error', 'info', 'assert']}],
         'lines-between-class-members': 'error',
         'quotes': ['error', 'single'],
         'complexity': ['error', {'max': 20}],
