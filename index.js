@@ -86,6 +86,7 @@ module.exports = {
         }],
         'spaced-comment': ['error', 'always'],
         'react/jsx-no-useless-fragment': ['error'],
-        'curly': ['error', 'all']
+        'curly': ['error', 'all'],
+        "@typescript-eslint/member-ordering": {"default": {"memberTypes": "never", "order": "alphabetically"}}
     }
 };
