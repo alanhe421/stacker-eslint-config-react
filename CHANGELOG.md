@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.10](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.9...v0.1.10) (2020-07-30)
+
+
+### Features
+
+* **member-ordering:** alphabetically for interface ([7bf7192](https://github.com/alanhg/stacker-eslint-config-react/commit/7bf71927f664d1e8a018f770f97df88dd9950169))
+
 ### [0.1.9](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.8...v0.1.9) (2020-07-08)
 
 
