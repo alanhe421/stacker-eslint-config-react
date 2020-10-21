@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.11](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.10...v0.1.11) (2020-10-21)
+
+
+### Features
+
+* **rest params:** require rest parameters instead of `arguments` ([c4289b3](https://github.com/alanhg/stacker-eslint-config-react/commit/c4289b337267aaa4888a1977ae6a02fdd6373c61))
+* **style:** add no-implicit-coercion ([7ba5df7](https://github.com/alanhg/stacker-eslint-config-react/commit/7ba5df7c005dbc7775664217fc2d0a56813726b2))
+
+
+### Performance Improvements
+
+* **upgrade:** dep version ([aede4cb](https://github.com/alanhg/stacker-eslint-config-react/commit/aede4cbeaad4b8ea832783006929c89f98f03255))
+
 ### [0.1.10](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.9...v0.1.10) (2020-07-30)
 
 
