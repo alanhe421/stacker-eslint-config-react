@@ -95,6 +95,8 @@ module.exports = {
             }],
         'no-implicit-coercion': ['error', {
             'boolean': true
-        }]
+        }],
+        'default-case': ['error'],
+        'one-var': ["error", "always"]
     }
 };
