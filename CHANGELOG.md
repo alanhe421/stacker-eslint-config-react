@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.14 (2021-01-04)
+
+
+### Build System
+
+* **version:** update dep version ([07a4535](https://github.com/alanhg/stacker-eslint-config-react/commit/07a4535e90182dd575a50be351662ed9aa111197))
+
 ### 0.1.13 (2021-01-04)
 
 ### [0.1.12](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.11...v0.1.12) (2020-10-21)
