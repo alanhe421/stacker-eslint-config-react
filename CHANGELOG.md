@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.16 (2021-01-10)
+
+
+### Bug Fixes
+
+* **ternary:** add no-unneeded-ternary ([4bfbb9f](https://github.com/alanhg/stacker-eslint-config-react/commit/4bfbb9fa70da462ecd13b730de208db3cdcb530c))
+
 ### [0.1.15](https://github.com/alanhg/stacker-eslint-config-react/compare/v0.1.12...v0.1.15) (2021-01-04)
 
 
