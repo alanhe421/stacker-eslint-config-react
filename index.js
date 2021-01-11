@@ -97,7 +97,7 @@ module.exports = {
             'boolean': true
         }],
         'default-case': ['error'],
-        'one-var': ['error', 'always'],
+        'one-var': ['error', 'never'],
         'no-unneeded-ternary': ['error']
     }
 };
