@@ -59,4 +59,5 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: "@stacker/eslint-config-react released"
+          message: "@stacker/eslint-config-react published, see [here](https://github.com/alanhg/stacker-eslint-config-react)"
+          format: "markdown"
