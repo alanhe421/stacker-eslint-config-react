@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.17 (2021-01-11)
+
+
+### Bug Fixes
+
+* **one var:** set never ([bea5fff](https://github.com/alanhg/stacker-eslint-config-react/commit/bea5fffdf9dc41f341b9941089c9a19cdca0ae28))
+
 ### 0.1.16 (2021-01-10)
 
 
