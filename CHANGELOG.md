@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.18 (2021-01-24)
+
+
+### Features
+
+* **lint:** lint for redux-saga ([2fd2fc4](https://github.com/alanhg/stacker-eslint-config-react/commit/2fd2fc4243642d4aea0bc483d8fc96cb9f3ffe4e))
+
 ### 0.1.17 (2021-01-11)
 
 

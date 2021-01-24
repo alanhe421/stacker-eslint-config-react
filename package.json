@@ -1,6 +1,6 @@
 {
   "name": "@stacker/eslint-config-react",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "项目当前实践Rules",
   "keywords": [
     "eslint",
