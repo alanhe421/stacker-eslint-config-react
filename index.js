@@ -4,7 +4,8 @@ module.exports = {
     },
     parser: '@typescript-eslint/parser',
     plugins: [
-        '@typescript-eslint'
+        '@typescript-eslint',
+        'redux-saga'
     ],
     extends: [
         'eslint:recommended',
