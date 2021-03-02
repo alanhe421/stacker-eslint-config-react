@@ -37,7 +37,7 @@
     "@typescript-eslint/eslint-plugin-tslint": "^4.5.0",
     "@typescript-eslint/parser": "^4.5.0",
     "eslint": "^7.2.0",
-    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-prettier": "^8.1.0",
     "eslint-loader": "^4.0.2",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jsdoc": "^24.0.0",
