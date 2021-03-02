@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.19 (2021-03-02)
+
+
+### Bug Fixes
+
+* **dep:** upgrade prettier version to v8 ([2085f91](https://github.com/alanhg/stacker-eslint-config-react/commit/2085f911500d7f2a00c3b499488c79ae6c9a5f31))
+
 ### 0.1.18 (2021-01-24)
 
 
