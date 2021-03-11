@@ -80,7 +80,7 @@ module.exports = {
         'no-nested-ternary': ['error'],
         'array-callback-return': ['error'],
         'react/prop-types': ['off'],
-        'react/jsx-no-target-blank': ['off'],
+        'react/jsx-no-target-blank': ['error'],
         'react/display-name': ['off'],
         'react/no-unsafe': ['error', {
             'checkAliases': true
