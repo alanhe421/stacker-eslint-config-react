@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.20 (2021-03-11)
+
+
+### Bug Fixes
+
+* **security:** turn on react/jsx-no-target-blank ([ff0bba5](https://github.com/alanhg/stacker-eslint-config-react/commit/ff0bba5c6e93fd7b0ca8e09004a2911d8183b26e))
+
 ### 0.1.19 (2021-03-02)
 
 
