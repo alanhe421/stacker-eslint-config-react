@@ -43,6 +43,7 @@
     "eslint-plugin-jsdoc": "^24.0.0",
     "eslint-plugin-prefer-arrow": "^1.2.0",
     "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-redux-saga": "^1.2.1"
   },
   "devDependencies": {
