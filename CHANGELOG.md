@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.21 (2021-03-12)
+
+
+### Features
+
+* **hooks:** lint for react-hooks ([76a40dc](https://github.com/alanhg/stacker-eslint-config-react/commit/76a40dca12139fa63ffa1e5e611d41d2f2eeae6b))
+
 ### 0.1.20 (2021-03-11)
 
 
