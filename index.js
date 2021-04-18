@@ -100,6 +100,9 @@ module.exports = {
         }],
         'default-case': ['error'],
         'one-var': ['error', 'never'],
-        'no-unneeded-ternary': ['error']
+        'no-unneeded-ternary': ['error'],
+        "react/no-unknown-property": [
+            "error"
+        ]
     }
 };
