@@ -51,7 +51,7 @@
     "commitizen": "^4.0.3",
     "commitlint": "^8.3.5",
     "husky": "^4.0.10",
-    "standard-version": "^7.0.1"
+    "standard-version": "^8.0.1"
   },
   "peerDependencies": {
     "eslint": ">= 7"
