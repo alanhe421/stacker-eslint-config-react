@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.22 (2021-04-18)
+
+
+### Features
+
+* **react:** add react/no-unknown-property ([da608a2](https://github.com/alanhg/stacker-eslint-config-react/commit/da608a278cd851d8ad11618dc5d47ee9e9f16c71))
+
 ### 0.1.21 (2021-03-12)
 
 
